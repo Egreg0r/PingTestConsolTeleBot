@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolTeleBot", "ConsolTeleBot\ConsolTeleBot.csproj", "{D495EB11-3748-4CFE-8776-1899D21CAF82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D495EB11-3748-4CFE-8776-1899D21CAF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D495EB11-3748-4CFE-8776-1899D21CAF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D495EB11-3748-4CFE-8776-1899D21CAF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D495EB11-3748-4CFE-8776-1899D21CAF82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4425D90C-2248-455A-AABE-7DF737E2D068}
+	EndGlobalSection
+EndGlobal
